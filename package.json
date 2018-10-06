@@ -1,0 +1,19 @@
+{
+  "name": "vue-cli-plugin-rx",
+  "version": "0.1.0",
+  "description": "vue-cli 3 for adding RxJS support to project using vue-rx",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliaTepluhina/vue-cli-plugin-rx.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "rxjs",
+    "vue-rx"
+  ],
+  "author": "Natalia Tepluhina <tarya.se@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/NataliaTepluhina/vue-cli-plugin-rx#readme"
+}
