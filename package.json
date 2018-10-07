@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-rx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "vue-cli 3 for adding RxJS support to project using vue-rx",
   "main": "index.js",
   "repository": {
