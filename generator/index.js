@@ -1,4 +1,4 @@
-module.exports = (api, options, rootOptions) => {
+module.exports = (api, options) => {
   api.extendPackage({
     dependencies: {
       'rxjs': '^6.3.3',
