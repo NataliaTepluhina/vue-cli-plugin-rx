@@ -1,7 +1,7 @@
 module.exports = (api, options, rootOptions) => {
   api.extendPackage({
     dependencies: {
-      rxjs: '^6.3.3',
+      'rxjs': '^6.3.3',
       'vue-rx': '^6.0.1',
     },
   });
